@@ -1,8 +1,8 @@
 # m08
 #----------DESCRIPCIÓ-----------
+
 #
-#
-#
+
 # Vibb - Red Social Dinámica
 
 #**Vibb** es una red social diseñada para facilitar la creación, compartición e interacción de contenido en línea. Su objetivo es ofrecer a los usuarios una experiencia fluida y segura, donde puedan conectar con amigos, familiares o comunidades de interés a través de publica
