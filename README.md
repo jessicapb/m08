@@ -1,7 +1,6 @@
 # m08
 
 # DESCRIPCIÓ
-
 #
 
 # Vibb - Red Social Dinámica
